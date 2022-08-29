@@ -1,0 +1,22 @@
+.new_category{
+    margin-top: 30px;
+    width: 100%;
+    height: 30%;
+}
+.about_category {
+    margin-bottom: 20px;
+}
+.new_category .category{
+    width: 100%;
+    height: 100%;
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+.new_category .category img{
+    width: 270px;
+    border-radius: 10px;
+    cursor: pointer;
+}
